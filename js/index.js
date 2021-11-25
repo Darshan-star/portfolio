@@ -8,7 +8,8 @@
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
-        Dream Trip: 'https://dream-trips.000webhostapp.com/'
+        heroku: 'https://localhost/shouvik-dutta/#/',
+        medium: 'https://mrhacker07.wordpress.com' 
       },
       accomplishments: [
         'Exploit-DB Juicy Informations',
