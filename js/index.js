@@ -1,15 +1,14 @@
 (function () {
   const projects = [
     {
-      title: 'NASA',
-      image: './img/projects/NASA.jpeg',
-      imageAlt: 'NASA Cover Photo',
+      title: 'Dream Trip',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzbYz9K1HMlOdmPHeq_qYXN7TnGpErfqffA&usqp=CAU',
+      imageAlt: 'Dream Trip Cover Photo',
       description: 'Uage of Exploit-DB and some modifications of Google Dorks lead to me the website of NASA where the Sensitive Data is leaking with issue of Directory Listing',
-      badgeCaption: 'Directory Listing',
+      badgeCaption: 'Web',
       links: {
-        github: 'https://github.com/shouvikdutta1998',
-        heroku: 'https://localhost/shouvik-dutta/#/',
-        medium: 'https://mrhacker07.wordpress.com'
+        github: 'https://github.com/Darshan-star',
+        Dream Trip: 'https://dream-trips.000webhostapp.com/'
       },
       accomplishments: [
         'Exploit-DB Juicy Informations',
