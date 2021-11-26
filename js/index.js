@@ -8,17 +8,17 @@
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
-        heroku: 'https://localhost/shouvik-dutta/#/',
-        medium: 'https://mrhacker07.wordpress.com' 
+        heroku: 'https://darshan-star.github.io/portfolio/#home',
+        medium: 'https://dream-trips.000webhostapp.com/' 
       },
-      accomplishments: [
+      <!--accomplishments: [
         'Exploit-DB Juicy Informations',
         'Google Dork to Check sensitive leaks',
         'Modified the Google Dorks',
         'Got the NASA Website with leakage',
         'Directory Listing Vulnerability',
         'Vulnerability Reported and Acknowledged',
-      ]
+      ] -->
     },
     {
       title: 'Indigo Airlines',
