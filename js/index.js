@@ -60,7 +60,7 @@
     },
     {
       title: 'E-Hospital Center',
-      image: './img/projects/E-hospital,jpg',
+      image: './img/projects/E-hospital.jpg',
       imageAlt: 'E-Hospital Web',
       description: 'As the name suggest (E-Hospital Center) this is a hospital website. Here any user or patient can register in you smart phone or laptop and can get the information about different diseases or also they can book their appointment with expert doctors.',
       badgeCaption: 'Web',
