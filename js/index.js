@@ -4,7 +4,7 @@
       title: 'Dream Trip',
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzbYz9K1HMlOdmPHeq_qYXN7TnGpErfqffA&usqp=CAU',
       imageAlt: 'Dream Trip Cover Photo',
-      description: 'Uage of Exploit-DB and some modifications of Google Dorks lead to me the website of NASA where the Sensitive Data is leaking with issue of Directory Listing',
+      description: 'Well, this is my new project on that currently I am working. As the name Suggest that this is a travelling website. Here you find many best tourist places in India. In addition this website give a hotels booking facility according to your travelling plane.',
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
@@ -24,7 +24,7 @@
       title: 'Renewed Store',
       image: 'https://darshan-star.github.io/my-portfolio/Renewed%20Store.jpg',
       imageAlt: 'Renewed Store Web',
-      description: 'Stored Based HTML Injection Attack over the Indigo Chat box, While chatting to any Indigo support team member injecting HTML payloads and successfully executed',
+      description: 'This is a online shopping Website like amazon and flip cart. Well, Till now I can made the front end of this website and now I am working on the backend part. But now I join this website with amazon.',
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
@@ -42,7 +42,7 @@
       title: 'Introvert Travels',
       image: 'https://darshan-star.github.io/my-portfolio/Introvert%20Travellers.jpg',
       imageAlt: 'Introvert Travels Web',
-      description: 'A Business Logic error Vulnerability, Adding $10000 from real account by just paying Rs.250, Tempered the value parameter lead to critical Vulnerability',
+      description: 'Well, Introvert Travels is also a travelling based website. But, basecly this is for uploading your traveling images or the beauty of the world. So that everyone can enjoy your trips',
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
@@ -62,7 +62,7 @@
       title: 'E-Hospital Center',
       image: './img/projects/E-hospital,jpg',
       imageAlt: 'E-Hospital Web',
-      description: 'Application Level DDOS Attack in the user registration page over Address Parameter lead to slow down of the website',
+      description: 'As the name suggest (E-Hospital Center) this is a hospital website. Here any user or patient can register in you smart phone or laptop and can get the information about different diseases or also they can book their appointment with expert doctors.',
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
@@ -81,7 +81,7 @@
       title: '3D Car Drive',
       image: './img/projects/car.jpg',
       imageAlt: '3D Car Game',
-      description: 'IoT Bug found by using shodan.io search engine, which take me to telnet service and dumped the memory of Cox Communications Two of IoT camera listed over the Internet',
+      description: 'Well, This is a simple 3D car game. You can simply play this game only rotating your smart phone or using left right key of computer or laptop.',
       badgeCaption: 'Game',
       links: {
         github: 'https://github.com/Darshan-star',
