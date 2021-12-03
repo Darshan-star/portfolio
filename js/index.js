@@ -18,7 +18,7 @@
         'Got the NASA Website with leakage',
         'Directory Listing Vulnerability',
         'Vulnerability Reported and Acknowledged',
-      ] -->
+      ] --->
     },
     {
       title: 'Renewed Store',
