@@ -11,7 +11,6 @@
         heroku: 'https://darshan-star.github.io/portfolio/#home',
         medium: 'https://dream-trips.000webhostapp.com/' 
       },
-     <!--
       accomplishments: [
         'Exploit-DB Juicy Informations',
         'Google Dork to Check sensitive leaks',
@@ -19,7 +18,7 @@
         'Got the NASA Website with leakage',
         'Directory Listing Vulnerability',
         'Vulnerability Reported and Acknowledged',
-      ] -->
+      ] 
     },
     {
       title: 'Renewed Store',
