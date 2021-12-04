@@ -11,14 +11,15 @@
         heroku: 'https://darshan-star.github.io/portfolio/#home',
         medium: 'https://dream-trips.000webhostapp.com/' 
       },
-     <!-- accomplishments: [
+     <!--
+      accomplishments: [
         'Exploit-DB Juicy Informations',
         'Google Dork to Check sensitive leaks',
         'Modified the Google Dorks',
         'Got the NASA Website with leakage',
         'Directory Listing Vulnerability',
         'Vulnerability Reported and Acknowledged',
-      ] --->
+      ] -->
     },
     {
       title: 'Renewed Store',
@@ -31,12 +32,12 @@
         heroku: 'https://darshan-star.github.io/portfolio/#home',
         medium: 'https://darshan-star.github.io/Renewed-Store/'
       },
-      <!-- accomplishments: [
+      accomplishments: [
         'Indigo Dottie Chat Box Vulnerability',
         'Successfully able to inject HTML payloads',
         'Stored Based HTML Injection Attack',
         'Vulnerability Reported and Acknowledged'
-      ] -->
+      ] 
     },
     {
       title: 'Introvert Travels',
@@ -49,14 +50,14 @@
         heroku: 'https://darshan-star.github.io/portfolio/#home',
         medium: 'https://darshan-star.github.io/Introvert-travels/index.html',
               },
-    <!--  accomplishments: [
+    accomplishments: [
         'Business Logic Error Vulnerability',
         'Vulnerability Finding in only 5 Minutes',
         'Parameter Tempering',
         'Adding $10000 only by Rs. 250',
         'Bug Reported',
         'Bounty Rewarded $100'
-      ]  -->
+      ]  
     },
     {
       title: 'E-Hospital Center',
@@ -69,13 +70,13 @@
         heroku: 'https://darshan-star.github.io/portfolio/#home',
         medium: 'https://darshan-star.github.io/e-hospital-center/',
               },
-     <!-- accomplishments: [
+     accomplishments: [
         'Application Level Attack',
         'Attempted Using Burpsuite',
         'Address Parameter',
         'Bug Reported',
         'Bounty Rewarded Rs.250'
-      ] -->
+      ] 
     },
     {
       title: '3D Car Drive',
@@ -88,13 +89,13 @@
         heroku: 'https://darshan-star.github.io/portfolio/#home',
         medium: 'https://darshan-star.github.io/3D-Car-Drive/',
       },
-    <!--  accomplishments: [
+    accomplishments: [
         'IoT Vulnerability',
         'Shodan.io Dorkings',
         'Camera Memory Dumped',
         'Shutdown the Camera Remotely',
         'Vulnerability Reported & Received Thanks',
-      ] -->
+      ] 
     }
   ]
 
