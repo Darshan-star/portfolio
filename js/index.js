@@ -249,7 +249,7 @@
     projectPlaced = true
     // generate html for each project
     projects.forEach(project => {
-      // Get all icon links
+      // Get all icon links 
       const icons = getIconLinks(project.links)
       // Gather all accomplishments
       const accomplishments = getAccomplishments(project.accomplishments)
