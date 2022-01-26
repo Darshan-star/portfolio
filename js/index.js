@@ -95,6 +95,25 @@
         'Shutdown the Camera Remotely',
         'Vulnerability Reported & Received Thanks',
       ] 
+    },
+     {
+      title: 'Smart Agriculture System',
+      image: 'https://static.wixstatic.com/media/ff99a2_9b6d904e4c5d42f3be66b9d65116299d~mv2.jpg/v1/fill/w_592,h_331,al_c,q_80,usm_0.66_1.00_0.01/Screenshot%202021-08-02%20133716.webp',
+      imageAlt: 'IOT based Project',
+      description: 'Well, This is IOT(Internet of Things) based project. Using this project I can solve many problems of farmer like harvesting problem, temperature problem etc. The only solution to these problem is smart agriculture by modernizing the current traditional methods of agriculture. Hence the project aims at making agriculture smart using automation and IoT technologies. The highlighting features of this project includes smart GPS based remote controlled robot to perform tasks like weeding, spraying, moisture sensing, bird and animal scaring, keeping vigilance, etc.',
+      badgeCaption: 'IOT',
+      links: {
+        github: 'https://github.com/Darshan-star',
+        heroku: 'https://darshan-star.github.io/portfolio/#home',
+        medium: 'https://89c66133-3140-4e50-be09-333421a45dc4.filesusr.com/ugd/ff99a2_583b1eead03f4aa2a04e124636373ae1.docx?dn=Article.docx',
+              },
+     accomplishments: [
+        'Use of smart IOT things',
+        'Learn the use of Arduino',
+        'arduino codes',
+        'Properties of Sensors',
+        'Remort controling'
+      ] 
     }
   ]
 
