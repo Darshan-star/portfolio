@@ -1,5 +1,6 @@
 (function () {
-  const projects = [
+  const projects = [ 
+    <!-- 
     {
       title: 'Dream Trip',
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzbYz9K1HMlOdmPHeq_qYXN7TnGpErfqffA&usqp=CAU',
@@ -19,7 +20,8 @@
         'Directory Listing Vulnerability',
         'Vulnerability Reported and Acknowledged',
       ] 
-    },
+    }, 
+    -->
     {
       title: 'Renewed Store',
       image: 'https://darshan-star.github.io/my-portfolio/Renewed%20Store.jpg',
