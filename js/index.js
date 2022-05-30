@@ -161,7 +161,7 @@
 
   // Handle floating action button
   function showFloatingActionButton() {
-    if (window.pageYOffset > navHeight) { return actionBtn.classList.remove('scale-out') }
+    if (window.pageYOffset > navHeight) { return actionBtn.classList.remove('scale-out') } 
     actionBtn.classList.add('scale-out')
   }
 
