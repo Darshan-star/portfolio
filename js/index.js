@@ -9,7 +9,7 @@
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
-        heroku: 'https://darshan-star.github.io/portfolio/#home',
+        heroku: 'https://darshan-star.github.io/portfolio/#home', 
         medium: 'http://cafeteria.great-site.net/' 
       },
       accomplishments: [
@@ -67,11 +67,11 @@
         medium: 'https://darshan-star.github.io/e-hospital-center/',
               },
      accomplishments: [
-    <!--'',
+    
         'Attempted Using Burpsuite',
         'Address Parameter',
         'Bug Reported',
-        'Bounty Rewarded Rs.250' -->
+        'Bounty Rewarded Rs.250' 
       ] 
     },
     {
@@ -86,12 +86,11 @@
         medium: 'https://darshan-star.github.io/3D-Car-Drive/',
       },
     accomplishments: [
-      <!--  
-      'IoT Vulnerability',
+        'IoT Vulnerability',
         'Shodan.io Dorkings',
         'Camera Memory Dumped',
         'Shutdown the Camera Remotely',
-        'Vulnerability Reported & Received Thanks', -->
+        'Vulnerability Reported & Received Thanks',
       ] 
     },
      {
