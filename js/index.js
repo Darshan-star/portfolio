@@ -1,6 +1,5 @@
 (function () {
   const projects = [ 
-    <!-- 
     {
       title: 'Dark Town Cafe',
       image: 'img/projects/front1.jpg',
