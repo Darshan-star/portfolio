@@ -2,23 +2,20 @@
   const projects = [ 
     <!-- 
     {
-      title: 'Dream Trip',
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzbYz9K1HMlOdmPHeq_qYXN7TnGpErfqffA&usqp=CAU',
-      imageAlt: 'Dream Trip Cover Photo',
-      description: 'Well, this is my new project on that currently I am working. As the name Suggest that this is a travelling website. Here you find many best tourist places in India. In addition this website give a hotels booking facility according to your travelling plane.',
+      title: 'Dark Town Cafe',
+      image: 'img/projects/front1.jpg',
+      imageAlt: 'Cafe Cover Photo',
+      description: 'Well, this is my new project on that currently I am working. As the name Suggest that this is a Cafe website. Here any user can visit and order their food like swiggy. This wibsit also provide food delivery option. The interface of the site is very user friendly and intractive.',
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
         heroku: 'https://darshan-star.github.io/portfolio/#home',
-        medium: 'https://dream-trips.000webhostapp.com/' 
+        medium: 'http://cafeteria.great-site.net/' 
       },
       accomplishments: [
-        'Exploit-DB Juicy Informations',
-        'Google Dork to Check sensitive leaks',
-        'Modified the Google Dorks',
-        'Got the NASA Website with leakage',
-        'Directory Listing Vulnerability',
-        'Vulnerability Reported and Acknowledged',
+        'Learn Team Working',
+        'Explor PHP skill',
+        'Learn Team Leading and time managing',
       ] 
     }, 
     -->
@@ -34,10 +31,10 @@
         medium: 'https://darshan-star.github.io/Renewed-Store/'
       },
       accomplishments: [
-        'Indigo Dottie Chat Box Vulnerability',
+        'Increase the knowledge of web',
         'Successfully able to inject HTML payloads',
-        'Stored Based HTML Injection Attack',
-        'Vulnerability Reported and Acknowledged'
+        'Learn web hosting',
+        'Increase knowledge of new electronic items'
       ] 
     },
     {
@@ -52,12 +49,10 @@
         medium: 'https://darshan-star.github.io/Introvert-travels/index.html',
               },
     accomplishments: [
-        'Business Logic Error Vulnerability',
-        'Vulnerability Finding in only 5 Minutes',
-        'Parameter Tempering',
-        'Adding $10000 only by Rs. 250',
-        'Bug Reported',
-        'Bounty Rewarded $100'
+        'Increase knowledge of Indian turist places',
+        'Learn implement of JS',
+        'Learn Team working',
+        'Bug Reported & modification',
       ]  
     },
     {
@@ -72,11 +67,11 @@
         medium: 'https://darshan-star.github.io/e-hospital-center/',
               },
      accomplishments: [
-        'Application Level Attack',
+    <!--'',
         'Attempted Using Burpsuite',
         'Address Parameter',
         'Bug Reported',
-        'Bounty Rewarded Rs.250'
+        'Bounty Rewarded Rs.250' -->
       ] 
     },
     {
@@ -91,11 +86,12 @@
         medium: 'https://darshan-star.github.io/3D-Car-Drive/',
       },
     accomplishments: [
-        'IoT Vulnerability',
+      <!--  
+      'IoT Vulnerability',
         'Shodan.io Dorkings',
         'Camera Memory Dumped',
         'Shutdown the Camera Remotely',
-        'Vulnerability Reported & Received Thanks',
+        'Vulnerability Reported & Received Thanks', -->
       ] 
     },
      {
