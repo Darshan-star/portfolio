@@ -9,7 +9,7 @@
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
-        heroku: 'https://darshan-star.github.io/portfolio/#home', 
+        heroku: 'https://darshan-star.github.io/portfolio/#home',  
         medium: 'http://cafeteria.great-site.net/' 
       },
       accomplishments: [
