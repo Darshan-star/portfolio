@@ -18,7 +18,6 @@
         'Learn Team Leading and time managing',
       ] 
     }, 
-    -->
     {
       title: 'Renewed Store',
       image: 'https://darshan-star.github.io/my-portfolio/Renewed%20Store.jpg',
@@ -34,7 +33,7 @@
         'Increase the knowledge of web',
         'Successfully able to inject HTML payloads',
         'Learn web hosting',
-        'Increase knowledge of new electronic items'
+        'Increase knowledge of new electronic items',
       ] 
     },
     {
