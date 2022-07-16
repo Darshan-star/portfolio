@@ -119,18 +119,18 @@
       image: './img/about-me/about-me-1.jpeg'
     },
     {
-      name: 'VAPT',
-      link: 'https://cyberops.in',
-      image:'./img/about-me/about-me-2.jpg"'
+      name: 'FULLSTACK DEVELOPER INTERN',
+      link: 'https://thewizards.me/',
+      image:'./img/about-me/wiz.png"'
     },
     {
-      name: 'Cyber Security Trainer',
-      link: 'https://cyberops.in',
+      name: 'CAMPUS AMBASSADOR AT NEO',
+      link: 'https://neoeducation.in/',
       image: './img/about-me/about-me-3.jpg'
     },
     {
       name: 'Gamer',
-      link: '',
+      link: '#',
       image: './img/about-me/about-me-4.jpg'
     }
   ]
