@@ -16,7 +16,25 @@
         'Explor PHP skill',
         'Learn Team Leading and time managing',
       ] 
-    }, 
+    },
+    {
+      title: 'Paradise Inn',
+      image: 'https://darshan-star.github.io/my-portfolio/Renewed%20Store.jpg',
+      imageAlt: 'Paradise Inn Website',
+      description: 'This is a online Hotel Website. Well, This is the complete website for hotel Paradise Inn. This is my first industerial project that I do recently under supervision of The Wizard. The complete website is done in React.',
+      badgeCaption: 'Web',
+      links: {
+        github: 'https://github.com/Darshan-star',
+        heroku: 'https://darshan-star.github.io/portfolio/#home',
+        medium: 'https://fascinating-raindrop-88b2c6.netlify.app/'
+      },
+      accomplishments: [
+        'Increase the knowledge of web',
+        'Successfully able to inject React payloads',
+        'Learn web hosting',
+        'Increase knowledge of new electronic items',
+      ] 
+    },
     {
       title: 'Renewed Store',
       image: 'https://darshan-star.github.io/my-portfolio/Renewed%20Store.jpg',
