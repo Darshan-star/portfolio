@@ -19,7 +19,7 @@
     },
     {
       title: 'Paradise Inn',
-      image: 'img/projects/paradise_inn.jpg',
+      image: 'img/projects/paradise_inn.jpg', 
       imageAlt: 'Paradise Inn Website',
       description: 'This is a online Hotel Website. Well, This is the complete website for hotel Paradise Inn. This is my first industerial project that I do recently under supervision of The Wizard. The complete website is done in React.',
       badgeCaption: 'Web',
