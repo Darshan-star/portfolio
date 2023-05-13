@@ -147,9 +147,9 @@
       image: './img/about-me/about-me-3.jpg'
     },
     {
-      name: 'Gamer',
-      link: '#',
-      image: './img/about-me/about-me-4.jpg'
+      name: 'My Article',
+      link: 'https://issuu.com/snackshackcafe/docs/project_final_report_updated',
+      image: './img/about-me/about-me-5.jpg'
     }
   ]
 
