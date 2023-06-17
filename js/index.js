@@ -1,19 +1,20 @@
 (function () {
   const projects = [ 
     {
-      title: 'Dark Town Cafe',
-      image: 'img/projects/front1.jpg',
+      title: 'Snack Shack Cafe',
+      image: 'img/projects/p1.jpg',
       imageAlt: 'Cafe Cover Photo',
-      description: 'Well, this is my new project on that currently I am working. As the name Suggest that this is a Cafe website. Here any user can visit and order their food like swiggy. This wibsit also provide food delivery option. The interface of the site is very user friendly and intractive.',
+      description: 'Well, this is my new project on that currently I am working. As the name Suggest that this is a Cafe website. Here any user can visit and order their food like swiggy. This wibsite is designed to convert the traditional cafe into online. The interface of the site is very user friendly and intractive.',
       badgeCaption: 'Web',
       links: {
         github: 'https://github.com/Darshan-star',
         heroku: 'https://darshan-star.github.io/portfolio/#home',  
-        medium: 'http://cafeteria.great-site.net/' 
+        medium: 'https://snack-shack.42web.io/' 
       },
       accomplishments: [
         'Learn Team Working',
         'Explor PHP skill',
+        'Explor Payment gatway',
         'Learn Team Leading and time managing',
       ] 
     },
